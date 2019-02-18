@@ -1,20 +1,19 @@
 {
-  "main.css": "/react-app/mains.jsx/static/css/main.25f90941.chunk.css",
-  "main.js": "/react-app/mains.jsx/static/js/main.2bcdac6b.chunk.js",
-  "main.js.map": "/react-app/mains.jsx/static/js/main.2bcdac6b.chunk.js.map",
+  "main.css": "/react-app/mains.jsx/static/css/main.f24a292e.chunk.css",
+  "main.js": "/react-app/mains.jsx/static/js/main.15094a7b.chunk.js",
+  "main.js.map": "/react-app/mains.jsx/static/js/main.15094a7b.chunk.js.map",
   "runtime~main.js": "/react-app/mains.jsx/static/js/runtime~main.3553d681.js",
   "runtime~main.js.map": "/react-app/mains.jsx/static/js/runtime~main.3553d681.js.map",
   "static/css/2.944121ce.chunk.css": "/react-app/mains.jsx/static/css/2.944121ce.chunk.css",
-  "static/js/2.4f4434d8.chunk.js": "/react-app/mains.jsx/static/js/2.4f4434d8.chunk.js",
-  "static/js/2.4f4434d8.chunk.js.map": "/react-app/mains.jsx/static/js/2.4f4434d8.chunk.js.map",
+  "static/js/2.e4c8b090.chunk.js": "/react-app/mains.jsx/static/js/2.e4c8b090.chunk.js",
+  "static/js/2.e4c8b090.chunk.js.map": "/react-app/mains.jsx/static/js/2.e4c8b090.chunk.js.map",
   "index.html": "/react-app/mains.jsx/index.html",
-  "precache-manifest.9db08da56b0beffacbed9fb0988db012.js": "/react-app/mains.jsx/precache-manifest.9db08da56b0beffacbed9fb0988db012.js",
+  "precache-manifest.dcb408d5aca5454065c04e3bd5158b38.js": "/react-app/mains.jsx/precache-manifest.dcb408d5aca5454065c04e3bd5158b38.js",
   "service-worker.js": "/react-app/mains.jsx/service-worker.js",
   "static/css/2.944121ce.chunk.css.map": "/react-app/mains.jsx/static/css/2.944121ce.chunk.css.map",
-  "static/css/main.25f90941.chunk.css.map": "/react-app/mains.jsx/static/css/main.25f90941.chunk.css.map",
+  "static/css/main.f24a292e.chunk.css.map": "/react-app/mains.jsx/static/css/main.f24a292e.chunk.css.map",
   "static/media/MoravyOum.pdf": "/react-app/mains.jsx/static/media/MoravyOum.0a36ec9d.pdf",
   "static/media/aws.png": "/react-app/mains.jsx/static/media/aws.5515f91e.png",
   "static/media/App.css": "/react-app/mains.jsx/static/media/bw4.8355bbb4.jpg",
-  "static/media/mainlogo.png": "/react-app/mains.jsx/static/media/mainlogo.50e0632e.png",
-  "static/media/website.PNG": "/react-app/mains.jsx/static/media/website.7b487cfc.PNG"
+  "static/media/mainlogo.png": "/react-app/mains.jsx/static/media/mainlogo.50e0632e.png"
 }
